@@ -1,7 +1,7 @@
 <?php
-$userName = "rrm43";
-$password = "rmody1996";
-$hostname = "sql2.njit.edu";
+$userName = "*****";
+$password = "********";
+$hostname = "*********";
 $dsn = "mysql:host=$hostname;dbname=$userName";
 try
 {
